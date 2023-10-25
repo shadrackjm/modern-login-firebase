@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306002382003",
+    "project_id": "modern-login-fe81e",
+    "storage_bucket": "modern-login-fe81e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306002382003:android:e961e0dd20581091e8b4c6",
+        "android_client_info": {
+          "package_name": "com.example.modern_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxY32vd3418J-4B9JYt5yLP5PfipsPjVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
